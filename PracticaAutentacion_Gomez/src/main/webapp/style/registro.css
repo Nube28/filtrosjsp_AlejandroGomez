@@ -1,0 +1,34 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 7 nov 2024, 5:57:37 p.m.
+    Author     : Natasha Ruiz Perez
+*/
+
+ img {
+        width: 100px;
+        height: auto;
+    }
+    tr#planta {
+        background-color: #C7E5C6;
+    }
+    tr#agua {
+        background-color: #A6DCEF; 
+    }
+    tr#fantasma {
+        background-color: #B5A6CC; 
+    }
+    tr#volador {
+        background-color: #E2E4F6; 
+    }
+    tr#dragon {
+        background-color: #E9C6E3;
+    }
+    tr#electrico {
+        background-color: #FFF4B1;
+    }
+    tr#siniestro {
+        background-color: #D6D6D6;
+    }
